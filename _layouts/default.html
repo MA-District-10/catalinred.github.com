@@ -18,7 +18,7 @@ navigation:
     <title>{{ page.title | xml_escape }}</title>
     <meta name="description" content="{{ page.description }}">
     <meta name="google-site-verification" content="C5zdBQFWWh6uslnkcC0u_F5av9GyYt90auGayV4ELbM">
-    <link rel="stylesheet" href="{{ site.baseurl }}css/style.css">
+    <link rel="stylesheet" href="{{ site.baseurl }}/css/style.css">
     <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Open+Sans:400,300">
     <link rel="stylesheet" href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.min.css">
     {<<-EDIT <link rel="alternate" type="application/rss+xml" href="//feeds.feedburner.com/redteamdesign">
@@ -53,7 +53,7 @@ navigation:
                   {% assign current = 'current' %}
                 {% endif %}
                 <li class="{{ current }}">
-                  <a href="{{ link.url }}">{{ link.text }}</a>
+                  <a href="{{ site.baseurl }}{{ link.url }}">{{ link.text }}</a>
                 </li>
               {% endfor %}
             </ul>
