@@ -24,7 +24,8 @@ grunt.initConfig({
  jekyll: { 
     serve: {
       options: {
-        serve: true
+        serve: true,
+		baseurl: "\"\""
       }
     }  
   },
