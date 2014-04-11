@@ -2,9 +2,10 @@ name: "MA District 10 (TEST)"
 description: "Articles on front-end development, CSS, HTML, JavaScript and more."
 markdown: rdiscount
 pygments: true
-permalink: /:title
-paginate: 10
+permalink: post/:title
+paginate: 5
+paginate_path: "news/:num"
 excerpt_separator: <!-- more -->
 exclude: [rtd.sublime-project, rtd.sublime-workspace, CNAME, Gruntfile.js, package.json, README.md]
-#abs_url: http://www.red-team-design.com
+#abs_url: http://madistrict10.org
 baseurl: /madistrict10.org

@@ -25,19 +25,19 @@ grunt.initConfig({
     serve: {
       options: {
         serve: true,
-		baseurl: "\"\""
+        baseurl: "\"\""
       }
     }  
   },
 
   watch: {
-      styles: {
-          files: ['saas/*.scss'],
-          tasks: ['sass', 'autoprefixer', 'jekyll']
-      },
+      //styles: {
+      //  files: ['saas/*.scss'],
+      //  tasks: ['sass', 'autoprefixer', 'jekyll']
+      //},
       jekyll: {
-        files: ['*.html', '*.md', '*.yml', '*.xml', 'js/**.js', '_posts/**', '_includes/**', '_layouts/**'],
-        tasks: ['sass', 'autoprefixer', 'jekyll']       
+        files: ['saas/*.scss', '*.html', '*.md', '*.yml', '*.xml', 'js/**.js', '_posts/**', '_includes/**', '_layouts/**'],
+        tasks: ['sass', 'autoprefixer', 'jekyll']
       }
   },
 
