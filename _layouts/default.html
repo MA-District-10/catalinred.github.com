@@ -1,8 +1,6 @@
 ---
 navigation:
-- text: Home
-  url: /
-- text: News
+- text: Announcements
   url: /news/
 - text: Meetings
   url: /meetings/
@@ -21,10 +19,11 @@ navigation:
     <link rel="stylesheet" href="{{ site.baseurl }}/css/style.css">
 	<link rel="stylesheet" href="{{ site.baseurl }}/css/no-sass.css">
     <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Open+Sans:400,300">
-    <!-- link rel="stylesheet" href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.min.css" -->
-		<!-- link rel="alternate" type="application/rss+xml" href="//feeds.feedburner.com/redteamdesign">
-		<link rel="author" href="//plus.google.com/114910105297465575018/posts"/ -->
-		
+    <link href='http://fonts.googleapis.com/css?family=Dosis:800' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.min.css">
+	<!-- link rel="alternate" type="application/rss+xml" href="//feeds.feedburner.com/redteamdesign">
+	<link rel="author" href="//plus.google.com/114910105297465575018/posts"/ -->
+
     <!--[if lt IE 9]>
       <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
       <script src="/js/respond.min.js"></script>
@@ -66,7 +65,13 @@ navigation:
 
   <div class="master-header">
     <div class="container">
-      <h1 class="master-head--title">{{ page.title | xml_escape }}</h1>
+      <h1 class="master-head--title">
+{% if page.tagline %}
+{{ page.tagline | xml_escape }}
+{% else %}
+{{ page.title | xml_escape }}
+{% endif %}
+      </h1>
     </div>
   </div>    
 
@@ -80,13 +85,11 @@ navigation:
           <div class="aside-module">
             {% include aside1.html %}
           </div>
-          <div class="aside-module"><div></div></div>
           <div class="aside-module">
             {% include aside2.html %}
           </div>
-          <div class="aside-module"><div></div></div>
           <div class="aside-module">
-            {% include aside_subsribe.html %}
+            {% include aside3.html %}
           </div>
         </aside>
       </div>

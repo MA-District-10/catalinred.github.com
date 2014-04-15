@@ -1,8 +1,9 @@
 ---
 layout: default
-title: Archive
-description: Browse through all the articles I've written until now.
-permalink: /archive/
+title: News
+description: An archive of posts and announcements (aka blog).
+tagline: Post Archive
+permalink: /news/
 ---
 
 <ul class="archive-list">

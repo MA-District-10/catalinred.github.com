@@ -2,6 +2,7 @@
 layout: default
 title: Meetings
 description: Meeting listing for Marijuana Anonymous District 10
+tagline: Meeting Listing
 permalink: /meetings/
 ---
 
@@ -56,13 +57,4 @@ O, NS, W/A
  1161 Covina Blvd., Covina, CA 91724  
  East of Grand Ave, in Group Room C &amp; D  
  O, NS, W/A [<a href="http://maps.google.com/maps?daddr=Aurora+Charter+Oaks+Hospital,+1161%20E%20Covina%20Blvd,%20Covina,%20CA%2091724&amp;ct=directions-to&amp;z=15" title="Get Directions">map</a>]
-
-
-##District Service Committee (DSC)
-
- Generally meets on the 2nd Sunday of the month  
- Bishop Gooden Men's Recovery Home  
- 191 N. El Molino Ave., Pasadena, CA 91101  
- @ El Molino / Walnut, in front room  
- O, N/S, W/A [<a href="http://maps.google.com/maps?fb=1&amp;gl=us&amp;daddr=The+Gooden+Center,+191+N.+El+Molino+Ave.,+Pasadena,+CA+91101&amp;ct=directions-to&amp;z=15" title="Get Directions">map</a>]
 

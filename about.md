@@ -2,18 +2,24 @@
 layout: default
 title: About
 description: Find out a bit more about me. Read about who I am, what I do and what are my passions.
+tagline: Who we are
 permalink: /about/
 ---
 
-## Who am I?
-Hello, my name is Catalin Rosu and I'm a web designer, developer and gamer. I'm that guy who loves to sit in front of his computer almost all the time. This is my personal website where I like to do stuff as writing tutorials and share front-end stuff.
+## Who are we?
 
-I live in Craiova, Romania and currently work at <a href="http://www.caphyon.com/">Caphyon</a>. I have a computer science degree but most of my knowledge comes from reading, blogging, and learning from those I've worked with along the time.
+MA District 10 is part of [Marijuana Anonymous World Services](https://www.marijuana-anonymous.org) being of service to addicts in the Los Angeles east area.
 
-When I'm not doing all of these, I play video games on my <del datetime="2011-11-28T19:02:45+00:00">PS3</del> Xbox 360 and hanging out with my friends.
+## Contact
+P.O. Box 94400, Pasadena, CA 91109  
+<a title="eMail MA District 10" href="mailto:info@madistrict10.net" style="color:inherit; opacity:inherit">info@madistrict10.net</a>  
+(626) 869-6210
 
-## Why Red?
-Because my name Rosu (RO) means Red (EN). That's why all my friends call me Red and it explains my twitter handle as well: <a href="https://twitter.com/catalinred">@catalinred</a>
+### District Service Committee (DSC)
 
-## Contact me
-Do you have any questions? Feel free to <a href="/contact">say "Hi"</a>!
+ Generally meets on the 2nd Sunday of the month  
+ Bishop Gooden Men's Recovery Home  
+ 191 N. El Molino Ave., Pasadena, CA 91101  
+ @ El Molino / Walnut, in front room  
+ O, N/S, W/A [<a href="http://maps.google.com/maps?fb=1&amp;gl=us&amp;daddr=The+Gooden+Center,+191+N.+El+Molino+Ave.,+Pasadena,+CA+91101&amp;ct=directions-to&amp;z=15" title="Get Directions">map</a>]
+

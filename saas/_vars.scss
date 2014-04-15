@@ -13,8 +13,8 @@ $rtd-font:      'Open Sans', Helvetica, Arial, sans-serif;
  */
 
 $gutter:        1.25; // 1.25 * 16 = 20
-$gutter-2x:     2*$gutter;
-$gutter-3x:     3*$gutter;
+$gutter-2x:     (2*$gutter)-1;
+$gutter-3x:     (3*$gutter)-1;
 $gutter-4x:     4*$gutter;
 $font-size:     16px;
 $line-height:   24px;
@@ -24,7 +24,7 @@ $line-height:   24px;
  */
 
 $color-black:       #333;
-$color-navy:        #353a4a;
-$color-blue:        #b8c3e9;
-$color-light:       #eef0f3;
-$color-red:         #eb5055;
+$color-navy:        #2D0E14; //3A2A2E; //353a4a;
+$color-blue:        #CA566E; //b8c3e9;
+$color-light:       #E8E0E2; //eef0f3;
+$color-red:         #1BBF15; //4bb855; //eb5055;
