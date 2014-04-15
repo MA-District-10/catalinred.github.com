@@ -1,4 +1,4 @@
-##Marijuana Anonymous District 10 Website
+#Marijuana Anonymous District 10 Website
 
 This is the code/markup for the Marijuana Anonymous District 10 website, [madistrict10.org](http://madistrict10.org).
 
