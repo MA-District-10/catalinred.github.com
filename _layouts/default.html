@@ -13,9 +13,13 @@ navigation:
   <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, minimum-scale=1.0">
-    <title>{{ page.title | xml_escape }}</title>
+    <title>{{ page.title | xml_escape }} | {{ site.name }}</title>
     <meta name="description" content="{{ page.description }}">
     <!-- meta name="google-site-verification" content="C5zdBQFWWh6uslnkcC0u_F5av9GyYt90auGayV4ELbM" -->
+    <link rel="shortcut icon" href="{{ site.baseurl }}/favicon.ico">
+    <link rel="apple-touch-icon" href="{{ site.baseurl }}/apple-touch-icon.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="{{ site.baseurl }}/apple-touch-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="{{ site.baseurl }}/apple-touch-icon-120x120.png">
     <link rel="stylesheet" href="{{ site.baseurl }}/css/style.css">
 	<link rel="stylesheet" href="{{ site.baseurl }}/css/no-sass.css">
     <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Open+Sans:400,300">
@@ -30,7 +34,7 @@ navigation:
     <![endif]-->
   </head>
   <!-- 
-  digitalRoots
+  digitalRoots - http://droots.org
    -->
   <body>
   
@@ -38,7 +42,7 @@ navigation:
     <div class="container">
       <div class="grid">
         <div class="grid__col--30">
-          <a href="/" class="rtd-logo">
+          <a href="{{ site.baseurl }}/" class="rtd-logo">
             {{ site.name }}
           </a>
         </div>
