@@ -1,6 +1,6 @@
 ---
 layout: default
-comments: true
+comments: false
 ---
 
 {% capture abs_url %}{{ site.abs_url }}{{ page.url }}{% endcapture %}
@@ -39,9 +39,7 @@ comments: true
   </div>
   <hr class="bold">
 
-  {%
-  =begin
-  if page.comments %}
+  {% if page.comments %}
     <div id="disqus_thread"></div>
     <script>
       var disqus_shortname = 'redteamdesign',
@@ -53,8 +51,6 @@ comments: true
           (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
       })();
     </script>   
-  {% endif 
-  =end
-  %}   
+  {% endif %}   
 
 </article>
