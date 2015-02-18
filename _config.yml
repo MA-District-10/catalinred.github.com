@@ -1,4 +1,4 @@
-name: "MA District 10 (TEST)"
+name: "MA District 10"
 description: "Marijuana Anonymous District 10 - Los Angeles East"
 markdown: rdiscount
 pygments: true
@@ -10,3 +10,4 @@ exclude: [assets, node_modules, saas, CNAME, Gruntfile.js, package.json, README.
 #abs_url: http://madistrict10.org
 baseurl: /madistrict10.org
 timezone: America/Los_Angeles
+excerpt_separator: <!--more-->
