@@ -8,11 +8,10 @@ permalink: /about/
 
 ## Who are we?
 
-MA District 10 is part of [Marijuana Anonymous World Services](https://www.marijuana-anonymous.org) being of service to addicts in the Los Angeles east area.
+MA District 10 is part of [Marijuana Anonymous World Services](https://www.marijuana-anonymous.org), being of service to addicts in the Los Angeles east area.
 
 ## Contact
-P.O. Box 94400, Pasadena, CA 91109  
-<a title="eMail MA District 10" href="mailto:info@madistrict10.net" style="color:inherit; opacity:inherit">info@madistrict10.net</a>  
+<a title="eMail MA District 10" href="mailto:info@madistrict10.org" style="color:inherit; opacity:inherit">info@madistrict10.org</a>  
 (626) 869-6210
 
 ### District Service Committee (DSC)
