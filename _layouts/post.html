@@ -39,7 +39,9 @@ comments: true
   </div>
   <hr class="bold">
 
-  {% if page.comments %}
+  {%
+  =begin
+  if page.comments %}
     <div id="disqus_thread"></div>
     <script>
       var disqus_shortname = 'redteamdesign',
@@ -51,6 +53,8 @@ comments: true
           (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
       })();
     </script>   
-  {% endif %}   
+  {% endif 
+  =end
+  %}   
 
 </article>
