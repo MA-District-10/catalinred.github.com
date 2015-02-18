@@ -16,7 +16,7 @@ MA District 10 is part of [Marijuana Anonymous World Services](https://www.marij
 
 ### District Service Committee (DSC)
 
- Generally meets on the 2nd Sunday of the month  
+ Generally meets on the 2nd Sunday of the month @ 11:30 AM  
  Bishop Gooden Men's Recovery Home  
  191 N. El Molino Ave., Pasadena, CA 91101  
  @ El Molino / Walnut, in front room  
