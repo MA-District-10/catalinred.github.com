@@ -3,4 +3,6 @@
 layout: post
 
 ---
-Hope you like our new setup.
+It is finally here, the modernized up-to-date, super awesome MA District 10 website!
+<!--more-->
+Hope you like it.
