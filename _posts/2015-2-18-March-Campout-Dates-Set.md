@@ -1,9 +1,9 @@
 ---
 layout: post
 ---
+**“Naturally ocurring indoor/outdoor hot mineral baths”**<br />
 Location: Agua Caliente Hot Springs Campground<br />
 Dates: Friday-Sunday, March 13-15, 2015<br />
-“Naturally ocurring indoor/outdoor hot mineral baths”<br />
 YOU MUST RSVP!! Camping Space Is LIMITED.
 <!--more-->
 - Campfire Meetings @ 7pm
