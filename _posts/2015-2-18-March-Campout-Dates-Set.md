@@ -1,10 +1,10 @@
 ---
 layout: post
 ---
-#### Location: Agua Caliente Hot Springs Campground
-#### Dates: Friday-Sunday, March 13-15, 2015
-#### “Naturally ocurring indoor/outdoor hot mineral baths”
-#### YOU MUST RSVP!! Camping Space Is LIMITED.
+Location: Agua Caliente Hot Springs Campground
+Dates: Friday-Sunday, March 13-15, 2015
+“Naturally ocurring indoor/outdoor hot mineral baths”
+YOU MUST RSVP!! Camping Space Is LIMITED.
 <!--more-->
 - Campfire Meetings @ 7pm
 - Tent camping only.
