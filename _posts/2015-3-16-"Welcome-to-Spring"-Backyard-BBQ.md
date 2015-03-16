@@ -12,4 +12,4 @@ Volunteers needed for setup and cleanup!
 - Carpool rides available.
 - Suggested Donation - $10- $15
 
-Send RSVP to <adam.quintero81@gmail.com> to adam.quintero81@gmail.com
+Send RSVP to <adam.quintero81@gmail.com>
